@@ -1,1 +1,1 @@
-python whysp.py
+python wisp.py
