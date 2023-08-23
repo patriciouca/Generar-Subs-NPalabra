@@ -28,6 +28,4 @@ El proyecto depende de varias bibliotecas externas. A continuación, se enumeran
 1. Clone este repositorio:
 
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
-   cd [NOMBRE_DEL_DIRECTORIO]
-
+   git clone https://github.com/patriciouca/Generar-Subs-NPalabra
