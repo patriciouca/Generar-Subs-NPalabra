@@ -29,3 +29,4 @@ El proyecto depende de varias bibliotecas externas. A continuación, se enumeran
 
    ```bash
    git clone https://github.com/patriciouca/Generar-Subs-NPalabra
+   cd Generar-Subs-NPalabra
